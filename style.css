@@ -1,8 +1,34 @@
 h1 {
-    color: #4D869C;
-    text-align: center;
+    color: #003C43;
+    font-size: 80px;
+    
+}
+.logo{
+    margin-left: 10px;
+    margin-top: 10px;
 }
 
 body {
     background-color: #CDE8E5;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.change-color {
+    color: #135D66;
+}
+
+.image {
+    border: 1.5px solid #003C43;
+    border-radius: 12px;
+    padding: 2px;
+    width: auto;
+}
+
+.space {
+    margin-top: 50px;
 }
